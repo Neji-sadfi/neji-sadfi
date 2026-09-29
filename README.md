@@ -1,36 +1,38 @@
 # Hi 👋, I'm Neji SADFI
 
-### Software Engineer | Guidewire Technical Consultant | Aspiring AI & Data Engineer
+### Software Engineer | Guidewire Technical Consultant
 
-I'm a Software Engineering student and Guidewire Technical Consultant with 3 years of professional experience in insurance technology.
+I'm a Software Engineering student and Guidewire Technical Consultant with 3 years of professional experience in enterprise software and insurance technology.
 
-I enjoy building software, exploring AI and data technologies, and turning business requirements into practical technical solutions.
+I enjoy building software applications, solving technical problems, and turning business requirements into reliable technical solutions.
 
 Currently, I'm looking for a **Final-Year Internship (PFE)** in:
 
-* 💻 Software Engineering / Full Stack Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science / Data Analytics
-* 🌐 Backend / Cloud Engineering
+* 💻 Software Engineering
+* 🌐 Full Stack Development
+* ⚙️ Backend Development
+* 🏗️ Enterprise Software Development
+* ☁️ DevOps & Cloud
+* 🤖 AI-powered Software Applications
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 * 🎓 Software Engineering student at **ESPRIT**
 * 💼 Guidewire Technical Consultant at **PwC TAC Tunisia**
-* 🏢 3+ years of experience in software development and insurance technology
+* 🏢 3+ years of professional experience in software development and enterprise applications
 * 🌍 Based in Tunisia, open to international opportunities
-* 🔭 Currently working on personal projects in **Full Stack, AI & Data**
-* 🌱 Continuously improving my skills in **Python, Java, Spring Boot, Angular and AI**
-* 💡 Interested in software architecture, automation and intelligent applications
+* 🔭 Building and improving software engineering projects
+* 🌱 Continuously improving my skills across backend, frontend, DevOps and emerging technologies
+* 💡 Interested in software architecture, scalable applications, automation and AI
 * 📫 Contact me: **[nejisadfi.business@gmail.com](mailto:nejisadfi.business@gmail.com)**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-#### Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
 <a href="https://www.java.com/" target="_blank">
@@ -45,22 +47,22 @@ Currently, I'm looking for a **Final-Year Internship (PFE)** in:
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </a>
+<a href="https://www.php.net/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</a>
 <a href="https://en.cppreference.com/w/c" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
 </a>
 </p>
 
-#### Web & Backend
+### 🌐 Web & Backend
 
 <p align="left">
-<a href="https://angular.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-</a>
 <a href="https://spring.io/projects/spring-boot" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+</a>
+<a href="https://angular.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -68,23 +70,12 @@ Currently, I'm looking for a **Final-Year Internship (PFE)** in:
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </a>
-</p>
-
-#### Data & AI
-
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+<a href="https://www.guidewire.com/" target="_blank">
+<b>Gosu</b>
 </a>
 </p>
 
-#### Databases & Tools
+### 🗄️ Databases
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank">
@@ -93,38 +84,63 @@ Currently, I'm looking for a **Final-Year Internship (PFE)** in:
 <a href="https://www.oracle.com/database/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+</p>
+
+**SQL · PL/SQL · MySQL · Oracle**
+
+### ⚙️ DevOps & CI/CD
+
+<p align="left">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </a>
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
 </p>
 
----
+**Docker · Jenkins · CI/CD · Git · Version Control**
 
-### 💼 Professional Experience
+### 🏢 Enterprise & Professional Tools
 
-**Guidewire Technical Consultant — PwC TAC Tunisia**
-
-Working on enterprise insurance solutions using:
-
-* Guidewire PolicyCenter & BillingCenter
+* Guidewire PolicyCenter
+* Guidewire BillingCenter
 * Gosu
-* Business Analysis & Functional Specifications
-* User Stories & Acceptance Criteria
-* Payment and Billing Processes
-* Configuration & Customization
+* Jira
+* Confluence
+* Bitbucket
+* TeamCity
+* GUnit
 * Agile / Scrum
-* Jira & Confluence
-* Automated Testing with GUnit
 
 ---
 
-### 📚 Certifications
+## 💼 Professional Experience
+
+### Guidewire Technical Consultant — PwC TAC Tunisia
+
+Working on enterprise insurance applications and contributing to both technical and functional aspects of software delivery.
+
+**Key areas:**
+
+* Guidewire PolicyCenter & BillingCenter configuration
+* Gosu development
+* Business analysis and functional specifications
+* User Stories & Acceptance Criteria
+* Billing and payment processes
+* Enterprise application customization
+* Automated testing with GUnit
+* Git-based development workflows
+* CI/CD environments
+* Agile / Scrum methodologies
+* Collaboration with business and technical teams
+
+---
+
+## 📚 Certifications
 
 * 🏆 Guidewire InsuranceSuite Associate Developer
 * 🏆 Guidewire PolicyCenter Configuration Specialist
@@ -134,35 +150,27 @@ Working on enterprise insurance solutions using:
 
 ---
 
-### 🔥 Featured Projects
+## 🔭 What I'm Working On
 
-I'm currently building and improving projects focused on:
+I'm continuously working on personal and academic projects to strengthen my software engineering skills.
 
-| Project                 | Technologies             | Focus                   |
-| ----------------------- | ------------------------ | ----------------------- |
-| 🏋️ **FitTrack**        | Next.js, TypeScript, PWA | Full Stack / PWA        |
-| 🤖 **AI Projects**      | Python, Machine Learning | Artificial Intelligence |
-| 📊 **Data Projects**    | Python, Pandas           | Data Analysis           |
-| 🌐 **Backend Projects** | Java, Spring Boot        | Software Engineering    |
+My current areas of interest include:
 
-> More projects and documentation are being added progressively.
+* ⚙️ Backend development with **Java & Spring Boot**
+* 🌐 Frontend development with **Angular & TypeScript**
+* 🐍 Software development with **Python**
+* 🗄️ Database development with **SQL & PL/SQL**
+* 🐳 Containerization with **Docker**
+* 🔄 CI/CD and automation with **Jenkins**
+* 🤖 Exploring **AI and intelligent software applications**
+* 🏗️ Software architecture and enterprise applications
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Neji-sadfi&show_icons=true&theme=tokyonight" alt="Neji's GitHub Stats"/>
-</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Neji-sadfi" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
-</a>
 <a href="https://www.linkedin.com/in/neji-sadfi-73ab8a207/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
 </a>
@@ -173,10 +181,10 @@ I'm currently building and improving projects focused on:
 
 ---
 
-### ⚡ A little more about me
+## ⚡ A little more about me
 
 I like learning by building.
 
-Whether it's a web application, an AI project, a data pipeline or an enterprise software solution, I enjoy understanding the problem, designing the solution and turning it into working software.
+I'm particularly interested in software engineering, enterprise applications, backend development, DevOps and emerging technologies.
 
 **Always learning. Always building. 🚀**
